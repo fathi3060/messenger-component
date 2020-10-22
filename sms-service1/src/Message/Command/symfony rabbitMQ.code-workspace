@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../eshop"
+		},
+		{
+			"path": "../../../../warehouse-system"
+		},
+		{
+			"path": "../../../../email-service"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../sms-service2"
+		}
+	],
+	"settings": {}
+}
